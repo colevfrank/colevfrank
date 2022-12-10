@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @colevfrank
-- 👀 I’m interested in NLP, information retrieval, representation theory, and interpretability
+
+👋 Hi, I’m @colevfrank. 
+
+Among other things, I'm interested in:  
+1. NLP
+2. information retrieval
+3. representation theory
+4. interpretability
 
 <!---
 colevfrank/colevfrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
