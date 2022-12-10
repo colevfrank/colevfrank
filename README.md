@@ -3,9 +3,10 @@
 
 Among other things, I'm interested in:  
 1. NLP
-2. information retrieval
-3. representation theory
-4. interpretability
+2. causal inference
+3. information retrieval
+4. representation theory
+5. interpretability
 
 (in no particular order)
 
